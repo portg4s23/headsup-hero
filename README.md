@@ -1,4 +1,4 @@
-# 🎮 HeadsUp Tilt
+# 🎮 HeadsUp Hero
 A fast, fun, tilt-controlled guessing game built with **React Native** + **Expo**.  
 Tilt **down** to mark a correct answer ✔️  
 Tilt **up** to pass ❌  
